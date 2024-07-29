@@ -9,7 +9,7 @@ I'm
 Full Stack Solution Architect
 I am a passionate and dedicated frontend developer with a strong focus on creating intuitive and engaging user interfaces. With a background in [mention any relevant education or experience], I specialize in turning design concepts into functional, responsive, and accessible web applications,Building responsive and visually appealing user interfaces using HTML, CSS, and JavaScript,Ensuring web applications are fast, responsive, and optimized for various devices and browsers,Writing clean, maintainable, and well-documented code,Managing code versions and collaborating with team members.
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://github.com/Sowjanyasrikanthreddy)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
