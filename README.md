@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-sowjanyareddy-red)](https://www.youtube.com/@sowjanyareddy2287)
-[![Linkedin Badge](https://img.shields.io/badge/-Karurusowjanya?style=flat-square&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/sowjanya-reddy-3029b51aa/)](https://www.linkedin.com/in/sowjanya-reddy-3029b51aa/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/tour)
+[![Linkedin Badge](https://img.shields.io/badge/-sowjanyareddy-green?style=flat-square&logo=Linkedin&logoColor=white&link=//https://www.linkedin.com/in/sowjanya-reddy-3029b51aa/)](https://www.linkedin.com/in/sowjanya-reddy-3029b51aa/)
+[![Website Badge](https://img.shields.io/badge/WebSite-sowjanyareddy-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-sowjanyareddy-yellow)](https://stackoverflow.com/users/26481814/sowjanya-srikanthreddy)
 
 I'm
 Full Stack Solution Architect
