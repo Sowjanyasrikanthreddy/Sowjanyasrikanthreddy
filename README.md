@@ -7,8 +7,7 @@
 
 I'm
 Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python, Golang), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,Cassandra,Mysql), CI/CD(Docker, Kubernetes) 
-
+I am a passionate and dedicated frontend developer with a strong focus on creating intuitive and engaging user interfaces. With a background in [mention any relevant education or experience], I specialize in turning design concepts into functional, responsive, and accessible web applications,Building responsive and visually appealing user interfaces using HTML, CSS, and JavaScript,Ensuring web applications are fast, responsive, and optimized for various devices and browsers,Writing clean, maintainable, and well-documented code,Managing code versions and collaborating with team members.
 
 ![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
